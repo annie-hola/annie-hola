@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently interested and learning Deep Learning, Computer Vision<br><br>👨‍💻 All of my projects are available at https://annie-portfolio-2.vercel.app/<br><br>💬 Ask me about MERN Stack<br><br>📄 Know about my experiences https://europa.eu/europass/eportfolio/screen/share/documents/32eb8c00-dd5a-46a9-adf2-f9319c34438e?lang=en<br><br>⚡ Fun fact I love cat
+🌱 I’m currently interested and learning Deep Learning, Computer Vision<br><br>👨‍💻 All of my projects are available at https://annie-portfolio-2.vercel.app/<br><br>💬 Ask me about MERN Stack<br><br>📄 Know about my experiences https://europa.eu/europass/eportfolio/screen/share/documents/32eb8c00-dd5a-46a9-adf2-f9319c34438e?lang=en<br><br>⚡ Fun fact I love cat 🐈‍⬛
 
 
 # 💻 Tech Stack:
